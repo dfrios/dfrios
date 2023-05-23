@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @dfrios
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ... I'm not sure yet 😅
-- 📫 How to reach me: Twitter @dfrios
+👋 Hi, I'm David Rios @dfrios
 
-<!---
-dfrios/dfrios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 I'm a senior web developer, with over 20 years of experience with PHP, HTML, CSS and Vanilla JavaScript. I'm also a WordPress, Laravel and Yii developer. Unfortunately, most of my projects are copyrighted and cannot be published on GitHub.
+💻 I'm Debian/GNU Linux Admin since year 2000
+
+🌱 I'm currently improving my ReactJS skills and studying Kotlin
+
+💞️ I'd like to work with ... I'm not sure yet, just tell me how I can help you 😅
+
+
+📫 How to reach me:
+Telegram [@dfrios](https://t.me/dfrios)
+Twitter [@dfrios](https://twitter.com/dfrios)
+Linkedin [@dfrios](https://linkedin.com/in/dfrios)
+Instagram [@david.rios.r](https://instagram.com/david.rios.r)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
