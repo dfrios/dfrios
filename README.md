@@ -9,10 +9,10 @@
 
 
 📫 How to reach me:
-Telegram [@dfrios](https://t.me/dfrios)
-Twitter [@dfrios](https://twitter.com/dfrios)
-Linkedin [@dfrios](https://linkedin.com/in/dfrios)
-Instagram [@david.rios.r](https://instagram.com/david.rios.r)
+* Telegram [@dfrios](https://t.me/dfrios)
+* Twitter [@dfrios](https://twitter.com/dfrios)
+* Linkedin [@dfrios](https://linkedin.com/in/dfrios)
+* Instagram [@david.rios.r](https://instagram.com/david.rios.r)
 
 
 <!--START_SECTION:waka-->
