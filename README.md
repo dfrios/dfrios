@@ -16,7 +16,8 @@
 * Instagram [@david.rios.r](https://instagram.com/david.rios.r)
 
 
-This is my WakaTime stats:
+
+My WakaTime stats:
 <!--START_SECTION:waka-->
 
 ```text
