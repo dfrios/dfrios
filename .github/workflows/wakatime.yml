@@ -20,4 +20,3 @@ jobs:
           SHOW_MASKED_TIME: true
           SHOW_TOTAL: true
           LANG_COUNT: 10
-          TIME_RANGE: all_time
