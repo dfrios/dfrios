@@ -25,9 +25,9 @@ From: 23 May 2023 - To: 24 May 2023
 
 Total Time: 8 mins
 
-Markdown     5 mins          >>>>>>>>>>>>>>>>---------   64.31 %
-YAML         2 mins          >>>>>>>>>----------------   34.04 %
-TypeScript   0 secs          -------------------------   01.65 %
+Markdown     5 mins          ████████████████░░░░░░░░░   64.31 %
+YAML         2 mins          ████████▓░░░░░░░░░░░░░░░░   34.04 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
