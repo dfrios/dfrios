@@ -21,14 +21,14 @@ My WakaTime stats:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2023 - To: 11 July 2023
+From: 23 May 2023 - To: 12 July 2023
 
-Total Time: 228 hrs 17 mins
+Total Time: 231 hrs 8 mins
 
-Other        209 hrs 12 mins ███████████████████████░░   91.64 %
-TypeScript   18 hrs 5 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Other        209 hrs 12 mins ██████████████████████▓░░   90.51 %
+TypeScript   20 hrs 52 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Bash         20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 PHP          18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Bash         17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 TSConfig     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 CSS          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
