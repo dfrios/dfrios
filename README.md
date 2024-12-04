@@ -21,7 +21,7 @@ My WakaTime stats:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2023 - To: 01 December 2024
+From: 23 May 2023 - To: 02 December 2024
 
 Total Time: 1,305 hrs 30 mins
 
