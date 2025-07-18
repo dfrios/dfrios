@@ -1,13 +1,12 @@
 👋 Hi, I'm David Rios [@dfrios](https://github.com/dfrios)
 
-👨‍💻 I'm a senior web developer, with over 20 years of experience with PHP, HTML, CSS and Vanilla JavaScript. I'm also a WordPress, Laravel and Yii developer. Unfortunately, most of my projects are copyrighted and cannot be published on GitHub.
+👨‍💻 I'm a senior web developer, with over 20 years of experience with PHP, HTML, CSS and Vanilla JavaScript, more than 2 years with ReactJS/Typescript and 1 year with NextJS. I'm also a WordPress, Laravel and Yii developer. Unfortunately, most of my projects are copyrighted and cannot be published on GitHub.
 
 💻 I'm Debian/GNU Linux Admin since year 2000
 
-🌱 I'm currently improving my ReactJS skills and learning Kotlin
+🌱 I'm currently improving my backend/frontend Javascript skills
 
-💞️ I'd like to work with ... I'm not sure yet, just tell me how I can help you 😅
-
+💞️ I'd like to work solving your web needs. Just tell me how I can help you 😃
 
 📫 How to reach me:
 * Telegram [@dfrios](https://t.me/dfrios)
