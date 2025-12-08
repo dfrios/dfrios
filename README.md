@@ -20,12 +20,12 @@ My WakaTime stats:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2023 - To: 05 December 2025
+From: 23 May 2023 - To: 06 December 2025
 
-Total Time: 1,668 hrs 3 mins
+Total Time: 1,668 hrs 15 mins
 
-TypeScript           492 hrs 22 mins ███████▒░░░░░░░░░░░░░░░░░   29.52 %
-Astro                411 hrs 32 mins ██████▒░░░░░░░░░░░░░░░░░░   24.67 %
+TypeScript           492 hrs 22 mins ███████▒░░░░░░░░░░░░░░░░░   29.51 %
+Astro                411 hrs 45 mins ██████▒░░░░░░░░░░░░░░░░░░   24.68 %
 PHP                  195 hrs 16 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
 Other                170 hrs 37 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
 JavaScript           131 hrs 11 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
