@@ -2,9 +2,9 @@
 
 👨‍💻 I'm a senior web developer, with over 20 years of experience with PHP, HTML, CSS and Vanilla JavaScript, more than 3 years with ReactJS/Typescript. I'm also a WordPress, Laravel and Yii developer. Unfortunately, most of my projects are copyrighted and cannot be published on GitHub.
 
-💻 I'm Debian/GNU Linux Admin since year 2000
+🤖 I'm passionate about AI and hold an AWS certification in AI
 
-🌱 I'm currently improving my backend/frontend Javascript skills
+💻 I'm Debian/GNU Linux Admin since year 2000
 
 💞️ I'd like to work solving your web needs. Just tell me how I can help you 😃
 
