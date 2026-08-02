@@ -20,18 +20,18 @@ My WakaTime stats:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2023 - To: 30 July 2026
+From: 23 May 2023 - To: 31 July 2026
 
-Total Time: 2,191 hrs 9 mins
+Total Time: 2,191 hrs 47 mins
 
-Astro                686 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.35 %
-TypeScript           606 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.69 %
+Astro                687 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   31.35 %
+TypeScript           607 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.70 %
 PHP                  206 hrs               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
 Other                172 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
 JavaScript           139 hrs 32 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
 JSON                 112 hrs 28 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
 CSS                  96 hrs 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-HTML                 75 hrs 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+HTML                 75 hrs 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 Markdown             23 hrs 2 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 Twig                 12 hrs 32 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
