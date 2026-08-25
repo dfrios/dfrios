@@ -20,12 +20,12 @@ My WakaTime stats:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2023 - To: 22 August 2026
+From: 23 May 2023 - To: 23 August 2026
 
-Total Time: 2,223 hrs 28 mins
+Total Time: 2,223 hrs 39 mins
 
-Astro                704 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.70 %
-TypeScript           611 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.52 %
+Astro                704 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.70 %
+TypeScript           611 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   27.52 %
 PHP                  206 hrs               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
 Other                174 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
 JavaScript           140 hrs 34 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
