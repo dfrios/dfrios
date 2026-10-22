@@ -1,6 +1,6 @@
 👋 Hi, I'm David Rios [@dfrios](https://github.com/dfrios)
 
-👨‍💻 I'm a senior web developer, with over 20 years of experience with PHP, HTML, CSS and Vanilla JavaScript, more than 3 years with ReactJS/Typescript. I'm also a WordPress, Laravel and Yii developer. Unfortunately, most of my projects are copyrighted and cannot be published on GitHub.
+👨‍💻 I'm a senior web developer, with over 20 years of experience with PHP, HTML, CSS and Vanilla JavaScript, more than 5 years with ReactJS/Typescript. I'm also a WordPress, Laravel and Yii developer. Unfortunately, most of my projects are copyrighted and cannot be publicly published on GitHub.
 
 🤖 I'm passionate about AI and hold an AWS certification in AI
 
